@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jaladi Omkar
+- 👀 I’m interested in IOT projects, Robotics
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on any kind of programming projects
+- 📫 you can reach me on 2018.omkar.jaladi@ves.ac.in
